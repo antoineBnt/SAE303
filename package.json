@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "sass": "^1.69.5"
+  },
+  "name": "sae303",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "sass:w": "sass --watch src/main.scss:dist/style.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
